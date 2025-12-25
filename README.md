@@ -63,7 +63,7 @@ Shri Ramdeobaba College of Engineering and Management, Nagpur
 ---
 
 ##  GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuja-gutte&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuja-gutte&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuja-gutte&layout=compact&theme=tokyonight)
 
